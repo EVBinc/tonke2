@@ -21,5 +21,5 @@ The whole repository is Visual Studio project directory
    * Artillery strike
 
 ## SFML setting:
-SFML has to be downloaded and connected to the project manually. Best instruction:
+SFML-2.5.1 has to be downloaded and connected to the project manually. Best instruction:
 https://www.youtube.com/watch?v=YfMQyOw1zik
